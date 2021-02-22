@@ -3,7 +3,7 @@
             
  -💻 Python, Java, C#, PHP
             
-<div align="center"> <img src="https://media4.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif?cid=ecf05e47u7w7ntu7wn0912ys2ldmewmnjs23hhahoeqwi116&rid=giphy.gifusername=erdogangulec&theme=flat&no-frame=true&margin-w=30" /> </div>
+<div align="center"> <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e4734tjmewxwoavqrm3k2ce6vfjxscmiowghx4bjc46&rid=giphy.gifusername=erdogangulec&theme=flat&no-frame=true&margin-w=30" /> </div>
 
 
 
