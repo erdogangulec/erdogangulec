@@ -1,7 +1,7 @@
 <div align="center">
       <h1>Hi there! I'm Erdogan</h1
         
-**Management Information Systems Specialist**
+**Management Information Systems**
 
 
 
