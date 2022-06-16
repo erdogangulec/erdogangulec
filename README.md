@@ -5,7 +5,7 @@
 
 
 
- -💻 C++, Java, C#, PHP
+ -💻 Java,C, C#, PHP
             
 <div align="center"> <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e4734tjmewxwoavqrm3k2ce6vfjxscmiowghx4bjc46&rid=giphy.gifusername=erdogangulec&theme=flat&no-frame=true&margin-w=30" /> </div>
 
