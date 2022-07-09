@@ -4,8 +4,16 @@
 **Management Information Systems**
 
 
-
- -💻 Java,C, C#, PHP
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="55" height="55">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55" height="55">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55">	      
+<img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="55" height="55">	      
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55">	      
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55">	      
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55">
+<img align="center" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="55" height="55">			
+																   
             
 <div align="center"> <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e4734tjmewxwoavqrm3k2ce6vfjxscmiowghx4bjc46&rid=giphy.gifusername=erdogangulec&theme=flat&no-frame=true&margin-w=30" /> </div>
 
