@@ -16,11 +16,10 @@
 																   
             
 <div align="center"> <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e4734tjmewxwoavqrm3k2ce6vfjxscmiowghx4bjc46&rid=giphy.gifusername=erdogangulec&theme=flat&no-frame=true&margin-w=30" /> </div>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=erdogangulec&show_icons=true&theme=gotham" alt="erdogangulec" />
 
 
 
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=erdogangulec&theme=flat&no-frame=true&margin-w=30" /> </div>
 <p align="center">
 	<a href="https://www.linkedin.com/in/erdo%C4%9Fan-g%C3%BCle%C3%A7-9ba731244/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png"/></a>
 	<a href="http://discordapp.com/users/690344973731627018"><img src="https://img.icons8.com/bubbles/75/000000/discord-logo.png"/></a>
