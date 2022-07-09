@@ -3,7 +3,7 @@
         
 **Management Information Systems**
 
-### Technology I Use:
+### 💻Technology I Use:
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="55" height="55">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55" height="55">
