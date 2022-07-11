@@ -12,6 +12,7 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55">	      
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55">	      
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55">
+<img align="center" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55" height="55">
 <img align="center" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="55" height="55">			
 																   
             
