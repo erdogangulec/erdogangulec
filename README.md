@@ -27,7 +27,9 @@
 	<a href="https://www.instagram.com/erdogan.glc/"><img src="https://img.icons8.com/bubbles/75/000000/instagram.png"/></a>
 </p>
 
-
+<p align="center">
+  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 
 
